@@ -89,6 +89,4 @@ c.Deploy to cloud (Heroku/Render + Vercel/Netlify)
 Vaishnavi
 
 Built as a personal project to practice MERN stack development.
-Node.js (v16 or later)
 
-MongoDB
